@@ -1,0 +1,30 @@
+h1 {
+    text-align: center;
+    color: rgb(8, 8, 41);
+    background-color: blanchedalmond;
+}
+
+img {
+    width: 700px;
+    margin: auto;
+    display: block;
+}
+
+.Description {
+    background-color: blanchedalmond;
+    text-align: center;
+
+}
+
+p {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+
+.Ingredients {
+    background-color: burlywood;
+}
+
+.Steps {
+    background-color: burlywood;
+}
